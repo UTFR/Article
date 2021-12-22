@@ -2,7 +2,7 @@
 
 By: Benjamin Liang, University of Toronto Formula SAE Racing Team Electrical Member
 
-The University of Toronto Formula SAE Racing Team (UTFR) is a formula student design team affiliated with the University of Toronto. In this article, we will explore the UT22 main controller, the team’s car for competition in 2022. This PCB controls the car’s power distribution, powertrain signals, sensor data acquisition, cooling system, and battery management system.
+The University of Toronto Formula SAE Racing Team (UTFR) is a formula student design team affiliated with the University of Toronto. In this article, we will explore the main controller for UT22, the team’s car for competition in 2022. This PCB controls the car’s power distribution, powertrain signals, sensor data acquisition, cooling system, and battery management system.
 
 ![image](https://user-images.githubusercontent.com/82067858/147109720-74ea52db-8d4e-44a3-a0c4-77e4b8366732.png)
 
@@ -35,9 +35,9 @@ Altium Designer, a PCB and electronic design application was used to design the 
 
 PCB Ordering
 
-The main controller was ordered from JLCPCB for quick, reliable and cost-effective manufacturing. This ordering process is extremely simple and consists of the following four quick steps:
+The main controller was ordered from JLCPCB for quick, reliable, and cost-effective manufacturing. This ordering process is extremely simple and consists of the following four quick steps:
 1.	Export Gerber files from Altium
 2.	Click on the quote now button on the JLCPCB website
-3.	Upload the Gerber files and double check the PCB in the Gerber viewer then
+3.	Upload the Gerber files and double-check the PCB in the Gerber viewer then
 4.	Click save to cart, select your shipping and pay.
-JLCPCB automatically detects all the PCB specifications and fills out the order form for you.
+JLCPCB automatically detects all the PCB specifications, and fills out the order form for you.
