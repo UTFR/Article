@@ -6,7 +6,7 @@ The University of Toronto Formula SAE Racing Team (UTFR) is a formula student de
 
 ![image](https://user-images.githubusercontent.com/82067858/147109720-74ea52db-8d4e-44a3-a0c4-77e4b8366732.png)
 
-This controller and article were made in collaboration with JLCPCB. Founded in 2006, JLCPCB is a leading global PCB manufacturer with over 15 years of experience providing the best customer experience through the rapid production of highly reliable and cost-effective PCBs.
+This controller and article were made in collaboration with  https://jlcpcb.com/RAT. Founded in 2006,  https://jlcpcb.com/RAT is a leading global PCB manufacturer with over 15 years of experience providing the best customer experience through the rapid production of highly reliable and cost-effective PCBs.
 
 ![image](https://user-images.githubusercontent.com/82067858/147109743-40eabf92-b9cf-4ee2-92ed-464ab6ecb206.png)
 
@@ -35,9 +35,9 @@ Altium Designer, a PCB and electronic design application was used to design the 
 
 PCB Ordering
 
-The main controller was ordered from JLCPCB for quick, reliable, and cost-effective manufacturing. This ordering process is extremely simple and consists of the following four quick steps:
+The main controller was ordered from  https://jlcpcb.com/RAT for quick, reliable, and cost-effective manufacturing. This ordering process is extremely simple and consists of the following four quick steps:
 1.	Export Gerber files from Altium
-2.	Click on the quote now button on the JLCPCB website
+2.	Click on the quote now button on the  https://jlcpcb.com/RAT website
 3.	Upload the Gerber files and double-check the PCB in the Gerber viewer then
 4.	Click save to cart, select your shipping and pay.
-JLCPCB automatically detects all the PCB specifications, and fills out the order form for you.
+ https://jlcpcb.com/RAT automatically detects all the PCB specifications, and fills out the order form for you.
