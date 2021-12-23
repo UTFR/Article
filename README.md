@@ -40,4 +40,5 @@ The main controller was ordered from  https://jlcpcb.com/RAT for quick, reliable
 2.	Click on the quote now button on the  https://jlcpcb.com/RAT website
 3.	Upload the Gerber files and double-check the PCB in the Gerber viewer then
 4.	Click save to cart, select your shipping and pay.
- https://jlcpcb.com/RAT automatically detects all the PCB specifications, and fills out the order form for you.
+
+https://jlcpcb.com/RAT automatically detects all the PCB specifications, and fills out the order form for you.
